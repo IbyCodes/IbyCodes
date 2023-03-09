@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IbyCodes
 - 👀 I’m interested in learning cool ways to code (trying to learn how to code video games)
-- 🌱 Currently learning Python , JavaScript, Java and C#
+- 🌱 Currently learning Python , JavaScript, Java and C/C++
 - 💞️ I’m looking to collaborate on video game projects, or any small projects
 - 📫 How to reach me:
 email: ibrahimkhan786007@gmail.com
