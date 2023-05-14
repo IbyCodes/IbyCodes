@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbyCodes
+- 👋 Hi, I’m Mohammad!
 - 👀 I’m interested in learning cool ways to code (trying to learn how to code video games)
 - 🌱 Currently learning Python , JavaScript, Java and C/C++
 - 💞️ I’m looking to collaborate on video game projects, or any small projects
