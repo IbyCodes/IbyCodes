@@ -4,7 +4,7 @@
 - 🌱 Currently learning Python , JavaScript, Java and C/C++
 - 💞️ I’m looking to collaborate on video game projects, or any other small projects that may be of interest to me
 - 📫 How to reach me:
-email: ibrahimkhan786007@gmail.com or mohammad.khan6@ucalgary.ca
+email: ibrahimkhan786007@gmail.com or mohammad.khan6@ucalgary.ca <br>
 My portfolio site: https://mohammad-khan-portfolio.netlify.app/
 <!---
 IbyCodes/IbyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
