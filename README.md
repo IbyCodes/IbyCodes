@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 email: ibrahimkhan786007@gmail.com <br>
 - My portfolio site 🌎: https://mohammad-khan-portfolio.netlify.app/
-- - My Linkedin 🌎: https://www.linkedin.com/in/mohammad-khan-4b4586293/
+-  My Linkedin 🌎: https://www.linkedin.com/in/mohammad-khan-4b4586293/
 <!---
 IbyCodes/IbyCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
